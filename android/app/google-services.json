@@ -1,0 +1,227 @@
+{
+  "project_info": {
+    "project_number": "188161156526",
+    "firebase_url": "https://enesan2311-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "enesan2311",
+    "storage_bucket": "enesan2311.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188161156526:android:867f05187af6475d07943f",
+        "android_client_info": {
+          "package_name": "com.enescan.chatApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "188161156526-ilgjbdqs3f6ao4f5fesp31qd04ft387r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhXJhSZNBsfojw3btbtCB2LvmC9PSC23Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "188161156526-ilgjbdqs3f6ao4f5fesp31qd04ft387r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "188161156526-1krrb68f55d1f4v3jui72gmoqa938be0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.kullaniciProfili"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188161156526:android:a605ced5bd863e0107943f",
+        "android_client_info": {
+          "package_name": "com.example.ChatGo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "188161156526-ilgjbdqs3f6ao4f5fesp31qd04ft387r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhXJhSZNBsfojw3btbtCB2LvmC9PSC23Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "188161156526-ilgjbdqs3f6ao4f5fesp31qd04ft387r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "188161156526-1krrb68f55d1f4v3jui72gmoqa938be0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.kullaniciProfili"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188161156526:android:bc7355103ff90cba07943f",
+        "android_client_info": {
+          "package_name": "com.example.chatapp2311"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "188161156526-ilgjbdqs3f6ao4f5fesp31qd04ft387r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhXJhSZNBsfojw3btbtCB2LvmC9PSC23Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "188161156526-ilgjbdqs3f6ao4f5fesp31qd04ft387r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "188161156526-1krrb68f55d1f4v3jui72gmoqa938be0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.kullaniciProfili"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188161156526:android:27f2043b4cdd42ec07943f",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "188161156526-ilgjbdqs3f6ao4f5fesp31qd04ft387r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhXJhSZNBsfojw3btbtCB2LvmC9PSC23Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "188161156526-ilgjbdqs3f6ao4f5fesp31qd04ft387r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "188161156526-1krrb68f55d1f4v3jui72gmoqa938be0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.kullaniciProfili"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188161156526:android:a2d036b93c9b7fe907943f",
+        "android_client_info": {
+          "package_name": "com.example.kullanici_profili"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "188161156526-ilgjbdqs3f6ao4f5fesp31qd04ft387r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhXJhSZNBsfojw3btbtCB2LvmC9PSC23Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "188161156526-ilgjbdqs3f6ao4f5fesp31qd04ft387r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "188161156526-1krrb68f55d1f4v3jui72gmoqa938be0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.kullaniciProfili"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188161156526:android:7d73462b9ce5ce6b07943f",
+        "android_client_info": {
+          "package_name": "design.chirag.chatApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "188161156526-ilgjbdqs3f6ao4f5fesp31qd04ft387r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhXJhSZNBsfojw3btbtCB2LvmC9PSC23Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "188161156526-ilgjbdqs3f6ao4f5fesp31qd04ft387r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "188161156526-1krrb68f55d1f4v3jui72gmoqa938be0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.kullaniciProfili"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
